@@ -1,0 +1,13 @@
+.DS_Store
+
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+*.Log
+
+# Editor directories and files
+.idea
+.vscode
